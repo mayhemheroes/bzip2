@@ -1,0 +1,4 @@
+project: PROJECT
+target: bzip2_compress_target
+cmds:
+- cmd: /out/bzip2_compress_target
